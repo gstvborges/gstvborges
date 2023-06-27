@@ -8,8 +8,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvb&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstvb&hide_progress=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstvborges&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstvborges&hide_progress=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gstv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
